@@ -1,0 +1,8 @@
+streamlit
+PyMuPDF
+Pillow
+pyzbar
+requests
+beautifulsoup4
+pandas
+SQLAlchemy
